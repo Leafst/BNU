@@ -459,7 +459,7 @@
           "cacheRead": 0.1,
           "cacheWrite": 2.5
         },
-        "description": "Latest workhorse model for coding and everyday work."
+        "description": "Previous generation model for coding and everyday work."
       },
       "configuredModelId": "08f54dc1-5ec7-4044-842c-c797a4b25ea8",
       "configuredAt": 1794586413555
@@ -492,7 +492,7 @@
           "output": 50,
           "cacheRead": 1
         },
-        "description": "Frontier intelligence for the most demanding work."
+        "description": "Previous generation model for complex coding and professional work."
       },
       "configuredModelId": "739f94b0-7f09-497e-be9b-3b1d17aa4817",
       "configuredAt": 1794586413557
@@ -526,7 +526,7 @@
           "cacheRead": 0.05,
           "cacheWrite": 1.25
         },
-        "description": "GPT-6.1 Terra Codex model."
+        "description": "Efficient model that excels at visual understanding and computer use."
       },
       "configuredModelId": "cc771687-96e1-4bf8-b445-626fd4b54f73",
       "configuredAt": 1794586413558
@@ -560,7 +560,7 @@
           "cacheRead": 0.2,
           "cacheWrite": 2.5
         },
-        "description": "Previous generation workhorse model."
+        "description": "Legacy model for coding and everyday work."
       },
       "configuredModelId": "a5b0f5ee-ff15-46e3-9ff0-6a7deb70e944",
       "configuredAt": 1794586413558
@@ -627,7 +627,7 @@
           "output": 30,
           "cacheRead": 0.5
         },
-        "description": "Older generation workhorse model."
+        "description": "Legacy model for coding and everyday work."
       },
       "configuredModelId": "ce771cd9-1998-478f-b0cb-744ef6780b71",
       "configuredAt": 1794586413559
@@ -660,7 +660,7 @@
           "output": 12,
           "cacheRead": 0.2
         },
-        "description": "Older balanced model for straightforward work."
+        "description": "Legacy balanced model for agentic coding."
       },
       "configuredModelId": "163389ac-1ce2-43f7-99f6-d5533e239790",
       "configuredAt": 1794586413560
@@ -693,7 +693,7 @@
           "output": 1.2,
           "cacheRead": 0.02
         },
-        "description": "Older fast and efficient model."
+        "description": "Legacy fast model for simpler tasks."
       },
       "configuredModelId": "eaa9934d-2ddc-4b60-970e-536b4c381ec2",
       "configuredAt": 1794586413560
